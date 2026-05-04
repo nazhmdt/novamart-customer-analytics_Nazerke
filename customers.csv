@@ -1,0 +1,501 @@
+customer_id,signup_date,region,gender,age_group,acquisition_channel,loyalty_tier
+C0001,2023-10-17,Abu Dhabi,Female,18-24,Email,Bronze
+C0002,2022-04-25,Cairo,Female,35-44,Google Search,Bronze
+C0003,2022-01-26,Sharjah,Male,45-54,Instagram,Gold
+C0004,2022-10-09,Abu Dhabi,Female,35-44,Google Search,Bronze
+C0005,2022-09-08,Dubai,Female,45-54,Google Search,Bronze
+C0006,2022-08-17,Dubai,Male,35-44,Google Search,Gold
+C0007,2022-05-23,Dubai,Female,35-44,Email,Bronze
+C0008,2022-04-15,Riyadh,Female,45-54,Email,Gold
+C0009,2023-11-24,Sharjah,Female,25-34,Email,Bronze
+C0010,2023-07-13,Sharjah,Female,25-34,Referral,Silver
+C0011,2022-03-31,Dubai,Female,25-34,Direct,Bronze
+C0012,2023-08-28,Cairo,Male,55+,Referral,Bronze
+C0013,2023-03-09,Riyadh,Female,55+,TikTok,Gold
+C0014,2022-02-02,Dubai,Female,18-24,Instagram,Bronze
+C0015,2022-01-31,Dubai,Male,35-44,Instagram,Silver
+C0016,2022-04-06,Dubai,Male,55+,Instagram,Bronze
+C0017,2022-08-12,Dubai,Male,18-24,Email,Bronze
+C0018,2022-08-27,Abu Dhabi,Female,35-44,Direct,Gold
+C0019,2023-06-02,Abu Dhabi,Female,45-54,Instagram,Bronze
+C0020,2023-09-09,Dubai,Male,18-24,TikTok,Silver
+C0021,2022-01-28,Sharjah,Female,35-44,Instagram,Platinum
+C0022,2023-07-29,Dubai,Male,25-34,TikTok,Silver
+C0023,2022-07-23,Dubai,Female,55+,Google Search,Platinum
+C0024,2023-10-28,Abu Dhabi,Female,55+,Instagram,Bronze
+C0025,2023-12-20,Abu Dhabi,Female,55+,Google Search,Bronze
+C0026,2023-07-13,Riyadh,Male,25-34,Instagram,Bronze
+C0027,2023-03-06,Dubai,Male,45-54,Google Search,Silver
+C0028,2022-08-14,Abu Dhabi,Male,45-54,Google Search,Platinum
+C0029,2023-04-05,Abu Dhabi,Male,25-34,Direct,Bronze
+C0030,2023-08-27,Dubai,Female,45-54,Email,Silver
+C0031,2022-10-12,Sharjah,Female,18-24,Google Search,
+C0032,2022-01-07,Dubai,Female,35-44,Email,Silver
+C0033,2022-06-13,Dubai,Female,25-34,Referral,Silver
+C0034,2023-12-16,Cairo,Female,18-24,Instagram,Platinum
+C0035,2023-03-09,Cairo,Female,18-24,Google Search,Silver
+C0036,2022-12-15,Riyadh,Female,35-44,Instagram,Bronze
+C0037,2022-10-12,Dubai,Female,25-34,Instagram,Bronze
+C0038,2022-06-09,Dubai,Male,35-44,Referral,Bronze
+C0039,2022-08-09,Sharjah,Male,18-24,Instagram,Bronze
+C0040,2022-12-11,Abu Dhabi,Male,25-34,Email,Bronze
+C0041,2022-04-15,Dubai,Female,35-44,Referral,Gold
+C0042,2022-04-05,Abu Dhabi,Female,45-54,Instagram,
+C0043,2023-01-25,Dubai,Male,25-34,Email,Silver
+C0044,2022-04-10,Cairo,Female,35-44,Instagram,Bronze
+C0045,2023-01-03,Dubai,Female,45-54,TikTok,Gold
+C0046,2022-12-19,Sharjah,Male,35-44,Google Search,Silver
+C0047,2023-09-11,Dubai,Male,25-34,Direct,Bronze
+C0048,2022-09-28,Abu Dhabi,Female,18-24,Email,Silver
+C0049,2022-02-14,Abu Dhabi,Female,45-54,Instagram,Silver
+C0050,2023-04-16,Dubai,Female,18-24,Email,Bronze
+C0051,2023-07-04,Cairo,Female,45-54,TikTok,Silver
+C0052,2022-05-08,Riyadh,Female,35-44,Email,
+C0053,2023-01-23,Cairo,Female,55+,Direct,Bronze
+C0054,2022-03-22,Riyadh,Female,45-54,Direct,Platinum
+C0055,2023-07-20,Abu Dhabi,Female,55+,Instagram,Gold
+C0056,2022-10-28,Cairo,Male,25-34,Instagram,Silver
+C0057,2023-10-06,Dubai,Male,35-44,Email,Silver
+C0058,2023-09-26,Dubai,Male,,Google Search,Bronze
+C0059,2023-01-06,Dubai,Female,25-34,Direct,Silver
+C0060,2023-08-15,Dubai,Female,35-44,Direct,Silver
+C0061,2022-07-16,Abu Dhabi,Female,45-54,Google Search,Bronze
+C0062,2023-12-23,Dubai,Male,55+,Instagram,Silver
+C0063,2022-03-13,Riyadh,Male,35-44,Referral,Gold
+C0064,2022-02-16,Abu Dhabi,Male,25-34,Instagram,Silver
+C0065,2023-11-09,Dubai,Male,25-34,Direct,Bronze
+C0066,2022-08-22,Abu Dhabi,Female,35-44,Google Search,Gold
+C0067,2022-10-24,Dubai,Male,25-34,Email,Bronze
+C0068,2022-03-23,Riyadh,Male,18-24,Instagram,Bronze
+C0069,2022-08-27,Dubai,Female,25-34,Email,Bronze
+C0070,2022-04-14,Cairo,Male,25-34,Google Search,Bronze
+C0071,2023-01-25,Riyadh,Female,25-34,Email,Gold
+C0072,2022-10-12,Dubai,Female,25-34,Instagram,
+C0073,2023-04-10,Dubai,Male,18-24,Referral,Bronze
+C0074,2023-10-13,Riyadh,Female,18-24,Direct,Gold
+C0075,2023-01-09,Sharjah,Female,55+,Instagram,Gold
+C0076,2022-06-16,Sharjah,Female,25-34,Instagram,Gold
+C0077,2023-01-15,Riyadh,Male,25-34,Instagram,Bronze
+C0078,2022-12-30,Dubai,Female,35-44,Email,Silver
+C0079,2022-08-03,Abu Dhabi,Female,25-34,Email,Platinum
+C0080,2023-11-18,Dubai,Male,,Email,Gold
+C0081,2022-10-01,Riyadh,Male,45-54,Instagram,Bronze
+C0082,2023-12-20,Sharjah,Female,18-24,Google Search,Bronze
+C0083,2023-12-01,Dubai,Female,25-34,Email,Silver
+C0084,2023-10-26,Dubai,Male,45-54,Google Search,Gold
+C0085,2022-03-15,Dubai,Female,,TikTok,Silver
+C0086,2023-09-16,Dubai,Male,25-34,Instagram,Silver
+C0087,2023-10-13,Sharjah,Male,35-44,Referral,Bronze
+C0088,2022-06-25,Sharjah,Male,18-24,Google Search,Silver
+C0089,2023-07-01,Riyadh,Male,55+,Google Search,Gold
+C0090,2022-09-08,Abu Dhabi,Male,25-34,Referral,Bronze
+C0091,2022-06-17,Dubai,Male,55+,Referral,Gold
+C0092,2023-04-19,Sharjah,Female,35-44,TikTok,Platinum
+C0093,2023-01-24,Riyadh,Male,35-44,Instagram,Bronze
+C0094,2022-10-04,Abu Dhabi,Male,25-34,Instagram,Silver
+C0095,2023-10-18,Riyadh,Female,25-34,Referral,Bronze
+C0096,2023-12-06,Abu Dhabi,Male,18-24,Email,Gold
+C0097,2023-07-25,Abu Dhabi,Female,25-34,Instagram,Silver
+C0098,2022-08-13,Abu Dhabi,Male,18-24,Instagram,Silver
+C0099,2023-12-03,Dubai,Male,45-54,Instagram,Gold
+C0100,2022-11-29,Dubai,Male,25-34,Direct,Bronze
+C0101,2022-02-27,Dubai,Male,18-24,Instagram,Gold
+C0102,2022-08-23,Sharjah,Male,55+,Google Search,Silver
+C0103,2022-02-02,Dubai,Male,45-54,Instagram,Bronze
+C0104,2022-11-20,Abu Dhabi,Male,55+,Google Search,Silver
+C0105,2023-02-15,Cairo,Male,55+,Instagram,
+C0106,2022-10-02,Dubai,Male,18-24,Email,Bronze
+C0107,2022-03-09,Abu Dhabi,Male,25-34,Instagram,Gold
+C0108,2022-08-05,Riyadh,Male,35-44,Direct,Gold
+C0109,2023-08-04,Dubai,Female,35-44,Instagram,Bronze
+C0110,2022-11-19,Dubai,Female,18-24,Email,Platinum
+C0111,2022-08-06,Dubai,Male,45-54,Direct,Bronze
+C0112,2023-11-03,Dubai,Female,25-34,Email,Bronze
+C0113,2023-05-27,Cairo,Female,25-34,Email,Bronze
+C0114,2023-02-10,Riyadh,Male,35-44,Google Search,Gold
+C0115,2023-10-21,Sharjah,Female,35-44,Google Search,Silver
+C0116,2023-04-15,Riyadh,Female,35-44,Email,Bronze
+C0117,2022-05-27,Riyadh,Male,18-24,TikTok,Bronze
+C0118,2022-09-29,Dubai,Male,45-54,Email,Silver
+C0119,2022-05-23,Riyadh,Female,25-34,Email,Bronze
+C0120,2022-09-10,Abu Dhabi,Female,18-24,Referral,Gold
+C0121,2023-07-29,Riyadh,Male,45-54,Google Search,Gold
+C0122,2023-07-06,Riyadh,Male,55+,Instagram,Silver
+C0123,2022-09-27,Dubai,Male,45-54,Email,Platinum
+C0124,2023-08-22,Dubai,Female,45-54,TikTok,Bronze
+C0125,2023-03-15,Dubai,Female,35-44,Instagram,Platinum
+C0126,2023-08-21,Abu Dhabi,Male,35-44,Referral,Silver
+C0127,2023-02-13,Riyadh,Male,18-24,Instagram,Silver
+C0128,2023-01-06,Riyadh,Female,25-34,Email,Bronze
+C0129,2022-08-13,Dubai,Male,,Instagram,Gold
+C0130,2022-05-22,Abu Dhabi,Male,25-34,Google Search,Bronze
+C0131,2023-06-06,Abu Dhabi,Female,35-44,Referral,Bronze
+C0132,2023-05-21,Dubai,Female,25-34,Google Search,Bronze
+C0133,2022-04-04,Dubai,Female,18-24,Email,Silver
+C0134,2022-02-18,Dubai,Female,25-34,Referral,Silver
+C0135,2022-04-23,Cairo,Male,35-44,TikTok,Silver
+C0136,2022-06-06,Dubai,Male,18-24,Instagram,Gold
+C0137,2023-10-05,Abu Dhabi,Female,45-54,Google Search,Bronze
+C0138,2022-06-13,Sharjah,Male,25-34,Instagram,Silver
+C0139,2023-11-28,Abu Dhabi,Male,25-34,TikTok,Bronze
+C0140,2023-03-09,Cairo,Male,35-44,TikTok,Gold
+C0141,2023-09-03,Cairo,Male,45-54,Email,Gold
+C0142,2022-03-07,Dubai,Male,25-34,Direct,Silver
+C0143,2023-01-30,Abu Dhabi,Male,35-44,Email,Silver
+C0144,2023-01-26,Dubai,Male,35-44,Email,
+C0145,2023-09-03,Dubai,Male,25-34,Instagram,Silver
+C0146,2023-04-25,Dubai,Female,45-54,Referral,Gold
+C0147,2023-06-26,Sharjah,Female,45-54,Instagram,Silver
+C0148,2022-09-15,Abu Dhabi,Female,35-44,Direct,Bronze
+C0149,2023-07-21,Dubai,Female,45-54,Referral,Silver
+C0150,2022-01-12,Dubai,Female,45-54,Referral,Gold
+C0151,2023-11-28,Cairo,Male,35-44,Instagram,Bronze
+C0152,2022-04-28,Dubai,Female,45-54,Google Search,Bronze
+C0153,2023-11-30,Dubai,Female,35-44,Instagram,Silver
+C0154,2023-07-04,Abu Dhabi,Female,35-44,Google Search,Gold
+C0155,2022-10-01,Cairo,Male,35-44,Instagram,Bronze
+C0156,2023-10-19,Dubai,Male,35-44,TikTok,Bronze
+C0157,2022-12-15,Sharjah,Male,18-24,Email,Bronze
+C0158,2022-04-25,Riyadh,Male,45-54,Google Search,Bronze
+C0159,2022-10-28,Dubai,Female,45-54,Google Search,Silver
+C0160,2023-03-22,Sharjah,Female,18-24,Google Search,Silver
+C0161,2022-06-11,Abu Dhabi,Male,45-54,Email,Silver
+C0162,2023-04-10,Sharjah,Female,18-24,Email,Silver
+C0163,2022-01-04,Sharjah,Female,25-34,Direct,Bronze
+C0164,2022-09-27,Abu Dhabi,Male,35-44,Google Search,Gold
+C0165,2023-05-28,Dubai,Male,18-24,TikTok,Silver
+C0166,2022-07-02,Riyadh,Male,45-54,Direct,Platinum
+C0167,2023-06-04,Dubai,Male,45-54,Instagram,Silver
+C0168,2022-04-19,Dubai,Male,25-34,TikTok,Bronze
+C0169,2023-10-03,Dubai,Male,18-24,Instagram,Silver
+C0170,2022-11-02,Abu Dhabi,Male,25-34,Direct,Bronze
+C0171,2023-10-17,Sharjah,Male,35-44,Google Search,Silver
+C0172,2023-06-04,Dubai,Female,,Direct,Bronze
+C0173,2023-09-16,Abu Dhabi,Male,35-44,Direct,Bronze
+C0174,2022-07-23,Dubai,Female,25-34,Direct,Gold
+C0175,2022-06-06,Sharjah,Male,35-44,Referral,Bronze
+C0176,2023-01-18,Dubai,Female,,Google Search,Gold
+C0177,2022-06-15,Sharjah,Male,45-54,Instagram,Bronze
+C0178,2023-07-07,Abu Dhabi,Male,18-24,Google Search,
+C0179,2023-06-28,Cairo,Female,35-44,Instagram,Silver
+C0180,2022-01-01,Dubai,Female,35-44,Referral,Silver
+C0181,2023-09-06,Dubai,Female,55+,Google Search,Bronze
+C0182,2022-11-28,Dubai,Male,25-34,TikTok,Bronze
+C0183,2023-05-16,Cairo,Male,35-44,Email,Bronze
+C0184,2022-01-20,Riyadh,Female,55+,Direct,Bronze
+C0185,2022-04-25,Dubai,Female,18-24,Instagram,Silver
+C0186,2023-01-07,Sharjah,Female,55+,Direct,Platinum
+C0187,2022-11-11,Riyadh,Female,35-44,TikTok,Gold
+C0188,2022-09-03,Abu Dhabi,Male,18-24,Google Search,Gold
+C0189,2022-03-01,Abu Dhabi,Female,25-34,Email,Gold
+C0190,2022-09-04,Dubai,Male,35-44,Referral,Silver
+C0191,2023-08-04,Dubai,Male,18-24,Instagram,Bronze
+C0192,2022-03-22,Riyadh,Male,35-44,Email,Gold
+C0193,2022-03-29,Cairo,Female,25-34,Google Search,Silver
+C0194,2023-05-13,Sharjah,Male,35-44,Instagram,Silver
+C0195,2022-03-12,Dubai,Male,18-24,Google Search,Bronze
+C0196,2023-06-30,Dubai,Female,45-54,Instagram,Bronze
+C0197,2022-05-09,Sharjah,Male,,Instagram,Silver
+C0198,2022-05-12,Riyadh,Female,55+,Instagram,Gold
+C0199,2023-11-07,Riyadh,Male,35-44,TikTok,Silver
+C0200,2023-05-02,Riyadh,Female,18-24,Email,Bronze
+C0201,2023-07-17,Sharjah,Female,35-44,TikTok,Platinum
+C0202,2022-06-19,Dubai,Male,,Google Search,Bronze
+C0203,2022-09-29,Dubai,Male,18-24,Google Search,Bronze
+C0204,2023-06-25,Riyadh,Male,25-34,Email,Bronze
+C0205,2023-09-14,Sharjah,Male,25-34,Google Search,Silver
+C0206,2023-03-10,Dubai,Female,45-54,Instagram,Gold
+C0207,2022-08-05,Dubai,Male,35-44,Email,Bronze
+C0208,2023-07-07,Sharjah,Female,25-34,Instagram,Gold
+C0209,2023-12-08,Dubai,Male,25-34,Email,Bronze
+C0210,2022-07-25,Dubai,Female,55+,Email,Gold
+C0211,2024-01-01,Abu Dhabi,Female,25-34,Instagram,
+C0212,2022-11-16,Sharjah,Female,25-34,Instagram,Gold
+C0213,2023-02-13,Sharjah,Male,18-24,Referral,Bronze
+C0214,2023-11-19,Dubai,Male,45-54,Google Search,Platinum
+C0215,2023-10-28,Sharjah,Male,35-44,Instagram,Silver
+C0216,2023-01-18,Dubai,Female,25-34,TikTok,Bronze
+C0217,2023-03-25,Dubai,Female,18-24,Instagram,Gold
+C0218,2023-06-14,Sharjah,Female,35-44,Referral,Bronze
+C0219,2023-04-08,Sharjah,Male,35-44,TikTok,Gold
+C0220,2022-05-04,Riyadh,Female,25-34,Instagram,Bronze
+C0221,2022-09-11,Sharjah,Female,55+,Instagram,Silver
+C0222,2022-08-19,Abu Dhabi,Male,18-24,Instagram,Silver
+C0223,2022-03-07,Dubai,Male,25-34,Google Search,Bronze
+C0224,2022-12-13,Abu Dhabi,Female,,Instagram,Bronze
+C0225,2022-01-22,Dubai,Female,25-34,Referral,
+C0226,2023-08-26,Dubai,Female,35-44,Instagram,Silver
+C0227,2023-07-22,Cairo,Male,25-34,Email,Bronze
+C0228,2022-08-24,Abu Dhabi,Female,25-34,TikTok,Silver
+C0229,2023-08-26,Riyadh,Male,55+,Direct,Bronze
+C0230,2022-08-14,Sharjah,Male,25-34,Email,Bronze
+C0231,2022-01-08,Riyadh,Male,45-54,Google Search,Silver
+C0232,2022-03-14,Abu Dhabi,Female,25-34,Email,Bronze
+C0233,2023-12-26,Abu Dhabi,Female,25-34,Email,Gold
+C0234,2023-10-09,Abu Dhabi,Female,18-24,Google Search,Gold
+C0235,2022-03-02,Dubai,Male,35-44,Instagram,
+C0236,2022-08-23,Sharjah,Female,25-34,Direct,Silver
+C0237,2022-03-11,Dubai,Male,45-54,Google Search,Gold
+C0238,2022-02-02,Dubai,Female,25-34,Instagram,Bronze
+C0239,2022-12-05,Sharjah,Male,55+,Google Search,Bronze
+C0240,2022-03-14,Dubai,Male,18-24,Google Search,Bronze
+C0241,2023-06-11,Cairo,Male,45-54,Direct,Gold
+C0242,2022-09-01,Cairo,Male,45-54,Referral,Bronze
+C0243,2022-10-13,Cairo,Female,45-54,Referral,Silver
+C0244,2023-11-17,Abu Dhabi,Female,,Instagram,Platinum
+C0245,2023-05-13,Dubai,Male,35-44,Google Search,Gold
+C0246,2022-08-08,Cairo,Female,35-44,Google Search,Silver
+C0247,2023-07-07,Abu Dhabi,Male,18-24,Instagram,Bronze
+C0248,2022-05-16,Cairo,Female,18-24,Instagram,Gold
+C0249,2023-08-08,Cairo,Female,55+,Referral,Silver
+C0250,2023-08-14,Riyadh,Female,35-44,Instagram,Bronze
+C0251,2023-04-30,Dubai,Male,45-54,Email,Bronze
+C0252,2022-09-06,Abu Dhabi,Female,25-34,Instagram,Gold
+C0253,2023-04-30,Riyadh,Female,18-24,Instagram,Silver
+C0254,2023-02-21,Dubai,Male,18-24,Instagram,Gold
+C0255,2022-07-14,Dubai,Male,35-44,TikTok,Gold
+C0256,2022-04-07,Abu Dhabi,Female,25-34,Direct,Silver
+C0257,2022-04-10,Cairo,Female,25-34,TikTok,Silver
+C0258,2023-11-06,Sharjah,Female,25-34,Google Search,Bronze
+C0259,2023-03-18,Abu Dhabi,Female,18-24,Instagram,Bronze
+C0260,2022-12-29,Dubai,Female,35-44,Email,Bronze
+C0261,2023-03-10,Sharjah,Male,25-34,Google Search,Gold
+C0262,2023-02-25,Cairo,Male,45-54,Direct,Silver
+C0263,2023-04-24,Dubai,Male,25-34,Instagram,Gold
+C0264,2022-02-25,Abu Dhabi,Female,25-34,Google Search,Bronze
+C0265,2023-11-21,Riyadh,Male,18-24,Instagram,Silver
+C0266,2023-11-01,Sharjah,Female,18-24,Google Search,Silver
+C0267,2023-10-24,Sharjah,Female,25-34,Referral,Silver
+C0268,2022-04-11,Sharjah,Female,,Google Search,Silver
+C0269,2022-03-04,Abu Dhabi,Male,35-44,Google Search,Bronze
+C0270,2023-02-17,Dubai,Female,25-34,Google Search,Silver
+C0271,2022-12-14,Riyadh,Male,35-44,Google Search,Bronze
+C0272,2022-04-22,Riyadh,Female,45-54,Referral,Bronze
+C0273,2022-09-12,Riyadh,Male,45-54,Direct,Silver
+C0274,2022-07-16,Cairo,Male,18-24,TikTok,Silver
+C0275,2022-07-14,Abu Dhabi,Female,25-34,Referral,Platinum
+C0276,2023-07-04,Abu Dhabi,Male,18-24,Google Search,Silver
+C0277,2023-04-05,Riyadh,Male,25-34,Referral,Silver
+C0278,2022-05-24,Sharjah,Female,55+,Google Search,Silver
+C0279,2023-03-09,Sharjah,Female,18-24,Instagram,Silver
+C0280,2022-07-07,Riyadh,Female,25-34,Direct,Bronze
+C0281,2022-10-13,Riyadh,Female,35-44,Instagram,Bronze
+C0282,2023-04-19,Dubai,Female,35-44,Direct,Bronze
+C0283,2022-09-13,Abu Dhabi,Male,35-44,Google Search,Silver
+C0284,2022-03-19,Dubai,Male,18-24,Email,
+C0285,2023-03-30,Abu Dhabi,Male,25-34,Email,Bronze
+C0286,2023-07-18,Dubai,Female,25-34,Direct,Bronze
+C0287,2022-04-11,Abu Dhabi,Female,18-24,Email,Platinum
+C0288,2022-02-21,Abu Dhabi,Male,25-34,Email,Bronze
+C0289,2023-10-30,Dubai,Male,18-24,Instagram,Silver
+C0290,2023-07-08,Abu Dhabi,Female,18-24,Email,Bronze
+C0291,2022-01-16,Dubai,Male,25-34,Instagram,Silver
+C0292,2022-04-06,Dubai,Female,18-24,Referral,Bronze
+C0293,2022-08-31,Riyadh,Female,35-44,Email,Bronze
+C0294,2022-06-20,Abu Dhabi,Female,35-44,Referral,Silver
+C0295,2023-02-21,Dubai,Male,45-54,Instagram,Bronze
+C0296,2023-05-13,Abu Dhabi,Female,25-34,Instagram,Bronze
+C0297,2023-05-08,Riyadh,Female,18-24,Referral,Bronze
+C0298,2022-08-07,Dubai,Female,18-24,Instagram,Bronze
+C0299,2023-02-15,Sharjah,Female,35-44,Instagram,Bronze
+C0300,2022-03-02,Dubai,Female,35-44,Instagram,Bronze
+C0301,2022-06-18,Dubai,Female,,TikTok,Gold
+C0302,2023-01-24,Abu Dhabi,Male,55+,Referral,Silver
+C0303,2022-01-03,Abu Dhabi,Female,18-24,Google Search,Silver
+C0304,2023-02-04,Sharjah,Female,35-44,Google Search,
+C0305,2022-09-29,Sharjah,Male,35-44,Google Search,Platinum
+C0306,2023-04-11,Cairo,Female,45-54,Referral,Bronze
+C0307,2022-10-20,Abu Dhabi,Female,35-44,Email,Bronze
+C0308,2023-03-10,Dubai,Female,45-54,Instagram,Silver
+C0309,2023-12-15,Riyadh,Male,25-34,Instagram,Bronze
+C0310,2023-07-24,Dubai,Male,45-54,Instagram,Bronze
+C0311,2023-11-09,Abu Dhabi,Female,,Email,
+C0312,2023-05-14,Dubai,Female,45-54,Referral,Gold
+C0313,2022-06-08,Dubai,Male,35-44,Instagram,Silver
+C0314,2022-07-14,Cairo,Female,45-54,Instagram,Silver
+C0315,2022-10-31,Riyadh,Female,25-34,Instagram,Platinum
+C0316,2022-08-11,Sharjah,Female,35-44,TikTok,Bronze
+C0317,2022-03-01,Abu Dhabi,Female,35-44,Google Search,Bronze
+C0318,2023-08-17,Dubai,Male,,Referral,Bronze
+C0319,2023-07-10,Dubai,Male,18-24,Email,
+C0320,2022-03-04,Dubai,Male,18-24,Google Search,Bronze
+C0321,2022-11-18,Abu Dhabi,Female,25-34,Instagram,Gold
+C0322,2022-02-28,Sharjah,Male,18-24,Instagram,Silver
+C0323,2022-02-21,Sharjah,Male,45-54,Email,Silver
+C0324,2023-08-22,Dubai,Male,25-34,Referral,Bronze
+C0325,2023-05-04,Cairo,Female,55+,Email,Gold
+C0326,2023-05-30,Sharjah,Female,25-34,Email,Platinum
+C0327,2023-06-28,Abu Dhabi,Male,18-24,Instagram,Gold
+C0328,2022-06-11,Sharjah,Male,45-54,TikTok,Bronze
+C0329,2022-02-28,Abu Dhabi,Female,35-44,Referral,Silver
+C0330,2023-06-05,Dubai,Male,25-34,Google Search,
+C0331,2022-03-24,Abu Dhabi,Male,35-44,TikTok,Bronze
+C0332,2022-07-10,Riyadh,Male,35-44,Email,Bronze
+C0333,2022-03-12,Dubai,Male,25-34,Email,Silver
+C0334,2023-09-02,Dubai,Male,55+,Referral,Silver
+C0335,2022-03-11,Dubai,Female,55+,Direct,
+C0336,2023-11-23,Dubai,Male,35-44,Email,Bronze
+C0337,2022-08-29,Riyadh,Female,18-24,Instagram,Silver
+C0338,2023-02-18,Sharjah,Male,35-44,Google Search,Bronze
+C0339,2022-05-03,Abu Dhabi,Female,18-24,TikTok,Bronze
+C0340,2023-08-07,Dubai,Female,18-24,Instagram,Bronze
+C0341,2022-09-10,Abu Dhabi,Male,25-34,Google Search,Gold
+C0342,2023-08-16,Abu Dhabi,Female,25-34,Google Search,Bronze
+C0343,2023-09-01,Dubai,Male,45-54,Google Search,Bronze
+C0344,2022-02-10,Abu Dhabi,Female,35-44,Email,Bronze
+C0345,2023-09-27,Abu Dhabi,Male,35-44,TikTok,Platinum
+C0346,2022-03-25,Sharjah,Male,25-34,Instagram,Silver
+C0347,2023-03-06,Sharjah,Male,25-34,Instagram,Silver
+C0348,2023-11-05,Dubai,Female,25-34,Instagram,Bronze
+C0349,2023-08-21,Abu Dhabi,Female,55+,Direct,Silver
+C0350,2023-08-02,Sharjah,Female,18-24,Email,
+C0351,2023-06-20,Abu Dhabi,Male,45-54,Google Search,Silver
+C0352,2022-11-20,Riyadh,Female,35-44,Direct,
+C0353,2022-09-25,Sharjah,Male,25-34,Direct,Silver
+C0354,2022-07-29,Dubai,Female,35-44,Direct,Gold
+C0355,2023-11-17,Dubai,Male,25-34,Direct,Silver
+C0356,2022-11-18,Sharjah,Male,45-54,Instagram,Bronze
+C0357,2022-09-02,Dubai,Male,45-54,Referral,Gold
+C0358,2022-09-29,Abu Dhabi,Male,25-34,Google Search,Bronze
+C0359,2023-02-10,Cairo,Female,25-34,Direct,Silver
+C0360,2022-05-15,Abu Dhabi,Male,35-44,Referral,Bronze
+C0361,2023-11-19,Abu Dhabi,Female,45-54,Referral,Bronze
+C0362,2023-10-23,Sharjah,Male,25-34,Email,Bronze
+C0363,2022-11-04,Abu Dhabi,Female,35-44,Instagram,Bronze
+C0364,2023-04-14,Abu Dhabi,Male,35-44,Email,Silver
+C0365,2022-11-20,Cairo,Male,35-44,TikTok,Silver
+C0366,2022-03-16,Abu Dhabi,Female,18-24,TikTok,Bronze
+C0367,2022-01-10,Cairo,Male,35-44,Instagram,Bronze
+C0368,2023-04-15,Cairo,Male,45-54,Instagram,Silver
+C0369,2023-09-29,Dubai,Female,18-24,Instagram,Bronze
+C0370,2023-07-31,Dubai,Female,25-34,Referral,Silver
+C0371,2022-04-13,Dubai,Male,55+,Direct,Silver
+C0372,2022-03-17,Dubai,Male,18-24,Instagram,Gold
+C0373,2023-07-05,Dubai,Female,45-54,Email,Silver
+C0374,2022-08-07,Sharjah,Male,25-34,Direct,Bronze
+C0375,2023-06-03,Dubai,Male,25-34,Referral,Silver
+C0376,2022-09-29,Dubai,Male,45-54,Email,Bronze
+C0377,2022-05-16,Riyadh,Female,,Email,Bronze
+C0378,2022-12-24,Dubai,Female,25-34,Email,Gold
+C0379,2022-03-12,Riyadh,Male,25-34,Google Search,Bronze
+C0380,2022-09-08,Dubai,Male,35-44,Email,Gold
+C0381,2023-01-14,Dubai,Male,18-24,Referral,Gold
+C0382,2022-10-19,Sharjah,Female,25-34,Direct,Gold
+C0383,2022-06-11,Sharjah,Male,55+,Email,Gold
+C0384,2023-03-25,Riyadh,Male,25-34,Referral,Bronze
+C0385,2023-07-11,Sharjah,Female,35-44,Instagram,Bronze
+C0386,2023-12-22,Riyadh,Male,25-34,Google Search,Silver
+C0387,2022-11-06,Dubai,Female,,Instagram,
+C0388,2023-09-19,Dubai,Male,18-24,Instagram,Silver
+C0389,2023-11-01,Riyadh,Male,55+,Referral,Silver
+C0390,2023-06-26,Riyadh,Male,25-34,TikTok,Silver
+C0391,2022-01-09,Cairo,Female,25-34,Instagram,Bronze
+C0392,2023-11-15,Abu Dhabi,Female,18-24,Google Search,Bronze
+C0393,2023-07-22,Abu Dhabi,Female,18-24,Direct,Bronze
+C0394,2022-11-03,Riyadh,Male,25-34,Instagram,Bronze
+C0395,2023-11-11,Dubai,Female,25-34,Email,Gold
+C0396,2022-04-17,Cairo,Male,45-54,Referral,Bronze
+C0397,2022-05-18,Riyadh,Male,25-34,Email,Bronze
+C0398,2022-09-28,Abu Dhabi,Female,25-34,Instagram,Bronze
+C0399,2022-04-29,Riyadh,Male,35-44,Google Search,Silver
+C0400,2022-04-20,Riyadh,Male,35-44,Referral,Silver
+C0401,2023-07-21,Dubai,Male,18-24,Email,Bronze
+C0402,2022-06-09,Cairo,Male,18-24,Instagram,Bronze
+C0403,2022-10-06,Abu Dhabi,Male,18-24,Referral,Bronze
+C0404,2022-10-16,Riyadh,Female,35-44,Instagram,Bronze
+C0405,2023-09-12,Dubai,Male,35-44,Referral,Silver
+C0406,2022-08-04,Riyadh,Female,25-34,Instagram,Silver
+C0407,2022-12-18,Abu Dhabi,Female,45-54,TikTok,Bronze
+C0408,2022-07-28,Dubai,Male,45-54,Google Search,Bronze
+C0409,2023-12-05,Cairo,Male,35-44,Google Search,Platinum
+C0410,2023-10-12,Dubai,Male,45-54,Instagram,Silver
+C0411,2022-09-28,Dubai,Female,25-34,Google Search,Silver
+C0412,2023-06-02,Cairo,Male,18-24,Direct,Bronze
+C0413,2023-05-16,Cairo,Female,25-34,TikTok,Silver
+C0414,2022-09-15,Abu Dhabi,Male,18-24,Google Search,Bronze
+C0415,2022-02-22,Sharjah,Female,35-44,Google Search,Silver
+C0416,2022-04-05,Abu Dhabi,Male,55+,Referral,Platinum
+C0417,2023-10-12,Dubai,Male,18-24,Direct,Bronze
+C0418,2023-03-10,Dubai,Female,18-24,Email,Bronze
+C0419,2022-10-11,Sharjah,Female,25-34,Google Search,Bronze
+C0420,2022-02-15,Riyadh,Male,55+,Google Search,Bronze
+C0421,2022-01-04,Riyadh,Female,25-34,Referral,Bronze
+C0422,2022-12-08,Riyadh,Female,25-34,Instagram,Bronze
+C0423,2022-05-14,Dubai,Female,,Email,Gold
+C0424,2023-10-15,Abu Dhabi,Female,18-24,Google Search,Silver
+C0425,2022-09-26,Dubai,Male,55+,Referral,Bronze
+C0426,2022-06-15,Abu Dhabi,Male,55+,Instagram,Gold
+C0427,2023-03-29,Abu Dhabi,Male,18-24,Email,Bronze
+C0428,2023-07-19,Riyadh,Female,55+,Google Search,
+C0429,2023-12-24,Abu Dhabi,Female,35-44,Email,Bronze
+C0430,2023-03-14,Dubai,Male,45-54,Instagram,Gold
+C0431,2023-07-29,Dubai,Male,25-34,Email,Silver
+C0432,2022-01-10,Riyadh,Female,25-34,Email,Gold
+C0433,2022-04-25,Sharjah,Female,25-34,Email,Platinum
+C0434,2022-03-19,Dubai,Female,35-44,Email,Bronze
+C0435,2023-12-09,Dubai,Male,18-24,Email,Platinum
+C0436,2022-06-02,Sharjah,Male,18-24,Direct,Bronze
+C0437,2023-07-13,Dubai,Male,25-34,Instagram,Bronze
+C0438,2022-02-06,Riyadh,Female,35-44,Direct,Bronze
+C0439,2023-01-14,Sharjah,Male,25-34,Google Search,Silver
+C0440,2023-08-20,Dubai,Female,,Instagram,Bronze
+C0441,2023-07-20,Dubai,Male,55+,Instagram,Silver
+C0442,2022-06-01,Cairo,Female,18-24,Google Search,Silver
+C0443,2023-03-17,Abu Dhabi,Female,35-44,Referral,Gold
+C0444,2022-05-11,Abu Dhabi,Female,25-34,Referral,Gold
+C0445,2022-02-12,Riyadh,Male,45-54,Referral,Bronze
+C0446,2022-11-12,Cairo,Male,18-24,Email,Bronze
+C0447,2023-01-09,Cairo,Male,35-44,Google Search,Bronze
+C0448,2022-02-10,Riyadh,Female,45-54,Instagram,Bronze
+C0449,2023-01-02,Abu Dhabi,Female,55+,Google Search,Bronze
+C0450,2022-08-04,Dubai,Female,35-44,Google Search,Bronze
+C0451,2023-11-30,Riyadh,Female,25-34,Instagram,Bronze
+C0452,2022-09-13,Abu Dhabi,Female,35-44,Instagram,Platinum
+C0453,2023-11-14,Abu Dhabi,Male,45-54,Email,Silver
+C0454,2022-04-16,Cairo,Female,35-44,Referral,Bronze
+C0455,2022-12-29,Dubai,Male,18-24,TikTok,Silver
+C0456,2023-07-28,Abu Dhabi,Male,55+,TikTok,Bronze
+C0457,2023-02-21,Dubai,Female,35-44,Email,Bronze
+C0458,2023-09-28,Abu Dhabi,Male,35-44,Google Search,Silver
+C0459,2022-06-08,Dubai,Male,25-34,Email,Silver
+C0460,2022-08-31,Dubai,Female,35-44,Referral,Bronze
+C0461,2022-06-16,Dubai,Male,25-34,Instagram,Platinum
+C0462,2022-07-01,Sharjah,Female,35-44,Google Search,Gold
+C0463,2023-02-27,Sharjah,Male,,Direct,Silver
+C0464,2022-01-26,Abu Dhabi,Male,,Google Search,Silver
+C0465,2022-07-03,Cairo,Male,55+,Email,Silver
+C0466,2022-12-07,Abu Dhabi,Male,18-24,Email,Bronze
+C0467,2023-02-26,Dubai,Female,55+,Instagram,Bronze
+C0468,2023-11-17,Riyadh,Male,25-34,Google Search,Bronze
+C0469,2022-09-12,Dubai,Female,45-54,Google Search,Silver
+C0470,2022-10-01,Cairo,Male,45-54,Instagram,Silver
+C0471,2022-06-13,Dubai,Female,35-44,Instagram,Bronze
+C0472,2023-12-20,Cairo,Female,35-44,Direct,Platinum
+C0473,2022-04-21,Dubai,Female,45-54,Instagram,Gold
+C0474,2023-01-27,Riyadh,Male,25-34,Email,Silver
+C0475,2022-02-09,Abu Dhabi,Male,25-34,Google Search,Silver
+C0476,2023-04-27,Cairo,Male,35-44,TikTok,Gold
+C0477,2022-08-16,Dubai,Female,45-54,Instagram,Bronze
+C0478,2022-07-24,Abu Dhabi,Male,35-44,Google Search,Gold
+C0479,2023-04-17,Cairo,Female,45-54,Direct,Bronze
+C0480,2022-12-25,Abu Dhabi,Female,25-34,Direct,Gold
+C0481,2022-11-09,Sharjah,Male,45-54,Instagram,Bronze
+C0482,2022-08-22,Sharjah,Female,18-24,Direct,Gold
+C0483,2022-08-17,Abu Dhabi,Male,35-44,Google Search,Platinum
+C0484,2022-01-25,Sharjah,Male,18-24,Google Search,Bronze
+C0485,2023-11-07,Abu Dhabi,Female,25-34,Instagram,Silver
+C0486,2022-07-17,Cairo,Female,25-34,Instagram,Platinum
+C0487,2023-02-13,Dubai,Female,25-34,Referral,Silver
+C0488,2022-12-03,Dubai,Male,35-44,Google Search,Gold
+C0489,2022-10-13,Cairo,Male,25-34,Google Search,Silver
+C0490,2022-03-13,Riyadh,Female,25-34,Referral,Bronze
+C0491,2022-10-13,Abu Dhabi,Female,25-34,Referral,Bronze
+C0492,2022-12-26,Sharjah,Female,25-34,Instagram,Bronze
+C0493,2023-10-19,Dubai,Male,25-34,Email,Gold
+C0494,2023-06-06,Dubai,Female,18-24,Instagram,Bronze
+C0495,2023-02-14,Abu Dhabi,Male,35-44,Referral,Silver
+C0496,2023-11-27,Abu Dhabi,Male,35-44,Email,Silver
+C0497,2023-07-04,Abu Dhabi,Female,35-44,TikTok,Silver
+C0498,2022-12-06,Dubai,Male,25-34,Instagram,Gold
+C0499,2022-01-29,Cairo,Female,25-34,Instagram,Platinum
+C0500,2022-04-29,Cairo,Male,45-54,Google Search,Bronze
