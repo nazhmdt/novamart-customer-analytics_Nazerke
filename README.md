@@ -81,4 +81,4 @@ novamart-customer-analytics/
 ## 🎓 Course
 
 **AI in Marketing** — Astana IT University  
-Instructor: **Muhammad Ali Ibrahim** 
+Instructor: **Muhammed Ali Ibrahim** 
