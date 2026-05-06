@@ -18,7 +18,7 @@ novamart-customer-analytics/
 │   ├── customers.csv         # Customer profiles — demographics, acquisition channel, loyalty tier
 │   └── transactions.csv      # Transaction records — orders, returns, product categories
 ├── NovaMart_CustomerAnalytics.ipynb   # Full analysis pipeline
-├── NovaMart_Dashboard.pbix            # Power BI dashboard
+├── NovaMart_CustomerAnalytics.pbix            # Power BI dashboard
 └── README.md
 ```
  
